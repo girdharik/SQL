@@ -1,5 +1,5 @@
-CREATE DATABASE 'production';
-USE 'production';
+CREATE DATABASE production;
+USE production;
 
 CREATE TABLE cheese_production (
     Year INTEGER,
