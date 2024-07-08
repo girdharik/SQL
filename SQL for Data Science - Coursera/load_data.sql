@@ -1,3 +1,5 @@
+source SQL for Data Science - Coursera/table_schema.sql
+
 USE production;
 
 LOAD DATA LOCAL INFILE  
